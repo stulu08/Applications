@@ -22,12 +22,17 @@ The Minecarft Stulu Client
 - Capes
 - Blaze Effect
 - (with settings, color etc)
+## Commands
+- help
+- f
+- more comming soon
 ## How to install:
-- Download the release .zip folder 
-- Put it in %appdata%/minecraft/versions/StuluClient
-- Unzip
-- Create minecraft profile
-- Execute the profile
+- Download the zip folder of the latest version (V.1.0.0) 
+- Unzip the folder(not needed)
+- Put the "Stulu Client" folder in %appdata%/minecraft/versions
+- Put the "stulu" folder in %appdata%/minecraft
+- Create a new minecraft profile with the version "Stulu Client"(between 1.8.0 and 1.7.10)
+- Launch the new profile
 
 #### [License](LICENSE)
 ### © 2020 Stulu
