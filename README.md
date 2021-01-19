@@ -1,2 +1,6 @@
-# cpp_browser
-A simple browser using c++
+# Here you can find small Applications that i made
+## Applications
+- Browser
+- Engine
+- Stulupad (with go compiler)
+- Launcher
