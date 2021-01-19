@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\UWP c++ App.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\LockScreenLogo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\SplashScreen.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\Square150x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\Square44x44Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\StoreLogo.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\derst\source\repos\UWP c++ App\Assets\Wide310x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

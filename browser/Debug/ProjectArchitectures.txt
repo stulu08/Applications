@@ -1,0 +1,1 @@
+C:\Users\derst\source\repos\UWP c++ App\UWP c++ App.vcxproj;x86

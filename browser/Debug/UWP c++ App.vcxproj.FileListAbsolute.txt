@@ -1,0 +1,33 @@
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\LockScreenLogo.scale-200.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\SplashScreen.scale-200.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\Square150x150Logo.scale-200.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\Square44x44Logo.scale-200.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\StoreLogo.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\Assets\Wide310x150Logo.scale-200.png
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\App.xbf
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\MainPage.xbf
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\resources.pri
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\AppxManifest.xml
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App\UWP c++ App.build.appxrecipe
+C:\Users\derst\source\repos\UWP c++ App\Debug\XamlSaveStateFile.xml
+C:\Users\derst\source\repos\UWP c++ App\Debug\ResourceHandlingTask.state
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App.vcxproj.GenerateResource.Cache
+C:\Users\derst\source\repos\UWP c++ App\Debug\priconfig.xml
+C:\Users\derst\source\repos\UWP c++ App\Debug\priconfig.xml.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\unfiltered.layout.resfiles
+C:\Users\derst\source\repos\UWP c++ App\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\filtered.layout.resfiles
+C:\Users\derst\source\repos\UWP c++ App\Debug\filtered.layout.resfiles.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\excluded.layout.resfiles
+C:\Users\derst\source\repos\UWP c++ App\Debug\excluded.layout.resfiles.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\resources.resfiles
+C:\Users\derst\source\repos\UWP c++ App\Debug\resources.resfiles.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\pri.resfiles
+C:\Users\derst\source\repos\UWP c++ App\Debug\pri.resfiles.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\qualifiers.txt
+C:\Users\derst\source\repos\UWP c++ App\Debug\qualifiers.txt.intermediate
+C:\Users\derst\source\repos\UWP c++ App\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\derst\source\repos\UWP c++ App\Debug\ProjectArchitectures.txt
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App.vcxprojAssemblyReference.cache
+C:\Users\derst\source\repos\UWP c++ App\Debug\UWP c++ App.exe
