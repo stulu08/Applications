@@ -4,3 +4,4 @@
 - Engine
 - Stulupad (with go compiler)
 - Launcher
+- Minecraft Client
