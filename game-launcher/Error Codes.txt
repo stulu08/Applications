@@ -1,0 +1,9 @@
+Error Codes
+
+Ex10
+  - Unable to download
+  - Failed connection
+Ex11
+  - Failed to unzip
+Ex01
+  - Missing path

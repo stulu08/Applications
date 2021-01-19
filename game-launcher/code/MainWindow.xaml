@@ -1,0 +1,18 @@
+﻿<Window x:Name="LauncherWindow" x:Class="Stulu_Game_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stulu_Game_Launcher"
+        mc:Ignorable="d"
+        Title="Stulu Game Launcher" Height="720" Width="1280" Background="Black" Foreground="White" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="RMLB" Content="Stulu Mc Client" HorizontalAlignment="Left" Margin="624,358,0,0" VerticalAlignment="Top" Width="241" Height="44" FontSize="20" FontFamily="Impact" Click="RMLB_Click"/>
+        <Button x:Name="RZSB" Content="Russian Zombie Survival" HorizontalAlignment="Left" Margin="624,407,0,0" VerticalAlignment="Top" Width="241" Height="44" FontSize="20" FontFamily="Impact" Click="RZSB_Click"/>
+        <Button x:Name="Quit" Content="Quit" HorizontalAlignment="Left" Margin="624,456,0,0" VerticalAlignment="Top" Width="241" Height="44" FontSize="20" FontFamily="Impact" Click="Quit_Click"/>
+        <Button x:Name="WebSite" Content="Website" HorizontalAlignment="Left" Margin="154,526,0,0" VerticalAlignment="Top" Width="241" Height="44" FontSize="20" FontFamily="Impact" Click="WebSite_Click"/>
+        <Button x:Name="Github" Content="Github" HorizontalAlignment="Left" Margin="154,575,0,0" VerticalAlignment="Top" Width="241" Height="44" FontSize="20" FontFamily="Impact" Click="Github_Click"/>
+        <Image HorizontalAlignment="Left" Height="386" Margin="62,44,0,0" VerticalAlignment="Top" Width="470" Source="58867625.png"/>
+        <Label Content="Stulu Game Launcher" HorizontalAlignment="Left" Margin="563,96,0,0" VerticalAlignment="Top" Height="136" Width="666" FontFamily="Impact" FontSize="72" Foreground="White"/>
+    </Grid>
+</Window>
