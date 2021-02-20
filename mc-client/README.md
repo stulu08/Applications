@@ -15,6 +15,7 @@ The Minecarft Stulu Client
 - Fullbright 
 - No pumpkin blur 
 - No fire overlay 
+- Custom Crosshair
 
 ## Cosmetics
 - Wings
